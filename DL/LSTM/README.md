@@ -4,7 +4,7 @@ This project implements a Custom Long Short-Term Memory (LSTM) neural network to
 
 ## Video Demonstration
 
-[Watch the video](https://www.your-video-host.com/path/to/video.mp4)
+[Watch the video](https://www.loom.com/share/59e168bbe4d24c8abf5addbfd36e5d94?sid=c565c881-8121-48c2-8f21-79007a04c006)
 
 
 
