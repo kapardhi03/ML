@@ -4,11 +4,10 @@ This project implements a Custom Long Short-Term Memory (LSTM) neural network to
 
 ## Video Demonstration
 
-<video width="600" controls>
-  <source src="https://www.loom.com/share/59e168bbe4d24c8abf5addbfd36e5d94?sid=c565c881-8121-48c2-8f21-79007a04c006" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![LSTM Sine Wave Prediction Demo](https://cdn.loom.com/sessions/thumbnails/59e168bbe4d24c8abf5addbfd36e5d94-with-play.gif)](https://www.loom.com/share/59e168bbe4d24c8abf5addbfd36e5d94?sid=c565c881-8121-48c2-8f21-79007a04c006)
 
+
+Click the image above to watch a demonstration of the project in action.
 
 ## Table of Contents
 
